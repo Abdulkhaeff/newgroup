@@ -7,8 +7,11 @@
 // }
 
 
-var ex = 'aseqweqw qeweqweqwe asdqweqweq'
-console.log(ex);
+// var ex = 'aseqweqw qeweqweqwe asdqweqweq'
+// console.log(ex);
 
-let weq = "qweqwqwe"
-console.log(weq);
+// let weq = "qweqwqwe"
+// console.log(weq);
+let gorilla = 'engergy'
+console.log(gorilla);
+
