@@ -12,6 +12,16 @@
 
 // let weq = "qweqwqwe"
 // console.log(weq);
-let gorilla = 'engergy'
-console.log(gorilla);
+// let gorilla = 'engergy'
+// console.log(gorilla);
+
+
+
+
+
+// let gorilla = "engergy"
+// console.log(gorilla);
+// let gorilla = "engergyy"
+// console.log(gorilla);
+
 
