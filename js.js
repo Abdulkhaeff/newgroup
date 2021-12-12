@@ -28,4 +28,10 @@
 // var str = "Vivek Singh Bisht"; //using double quotes
 //  var str2 = 'John Doe'; //using single quotes
 
-var bigInteger =  234567890123456789012345678901234567890;
+// var bigInteger =  234567890123456789012345678901234567890;
+
+var a = 2;
+var b =  3;
+var c =  2;
+(a == b) // returns false
+(a == c) //returns true
