@@ -25,5 +25,7 @@
 // console.log(gorilla);
 
 
-var str = "Vivek Singh Bisht"; //using double quotes
- var str2 = 'John Doe'; //using single quotes
+// var str = "Vivek Singh Bisht"; //using double quotes
+//  var str2 = 'John Doe'; //using single quotes
+
+var bigInteger =  234567890123456789012345678901234567890;
