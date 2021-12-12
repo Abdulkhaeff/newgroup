@@ -35,3 +35,5 @@ var b =  3;
 var c =  2;
 (a == b) // returns false
 (a == c) //returns true
+
+console.log(c);
