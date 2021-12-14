@@ -45,6 +45,9 @@
 
 
 
-var number = '12 22 33';
-var arr = number.split(' ');
-console.log((arr.push.(arr.length));
+// var number = '12 22 33';`
+// var arr = number.split(' ');
+// console.log((arr.push.(arr.length));`
+
+
+
