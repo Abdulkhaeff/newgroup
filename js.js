@@ -51,9 +51,13 @@
 
 
 
-function tigr(value,index) {
-    console.log(value+index);
-}
+// function tigr(value,index) {
+//     console.log(value+index);
+// }
+
+var number = a;
+var log = b;
+console.log(a+b);
 
 
 
