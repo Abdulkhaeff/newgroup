@@ -63,3 +63,12 @@
 
 // harf =(value) =>   value === value.toUpperCase()
 // console.log(harf('A'));
+
+
+
+
+// var count = 'webbrain academy'
+
+
+var javob = '123456789';
+console.log(javob.split(''));
