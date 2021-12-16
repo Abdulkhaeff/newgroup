@@ -55,9 +55,11 @@
 //     console.log(value+index);
 // }
 
-var number = a;
-var log = b;
-console.log(a+b);
+// var number = a;
+// var log = b;
+// console.log(a+b);
 
 
 
+// harf =(value) =>   value === value.toUpperCase()
+// console.log(harf('A'));
