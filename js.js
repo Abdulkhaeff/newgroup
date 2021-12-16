@@ -51,3 +51,9 @@
 
 
 
+function tigr(value,index) {
+    console.log(value+index);
+}
+
+
+
