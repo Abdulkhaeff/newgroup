@@ -81,8 +81,14 @@
 
 
 
-function translate(params) {
-    if (params === 'ru') console.log('privet')
-    else if (params === 'uz') console.log('salom');;
+// function translate(params) {
+//     if (params === 'ru') console.log('privet')
+//     else if (params === 'uz') console.log('salom');;
     
+// }
+
+
+var ins = "webbrain"
+for (i =0; i < ins.length;i++){
+    console.log(ins);
 }
