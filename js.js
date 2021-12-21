@@ -70,5 +70,10 @@
 // var count = 'webbrain academy'
 
 
-var javob = '123456789';
-console.log(javob.split(''));
+// var javob = '123456789';
+// console.log(javob.split(''));
+
+
+const Name = (params) => params ? console.log(params): console.log(as);;
+
+Name("qwe")
