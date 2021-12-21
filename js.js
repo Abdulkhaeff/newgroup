@@ -74,6 +74,15 @@
 // console.log(javob.split(''));
 
 
-const Name = (params) => params ? console.log(params): console.log(as);;
+// const Name = (params) => params ? console.log(params): console.log(as);;
 
-Name("qwe")
+// Name("qwe")
+
+
+
+
+function translate(params) {
+    if (params === 'ru') console.log('privet')
+    else if (params === 'uz') console.log('salom');;
+    
+}
