@@ -103,9 +103,14 @@
 // }
 // console.log(calculator(7));
 
-function calculator2(params) {
-    return parseInt(params,2)
-}
-console.log(calculator2(111));
+// function calculator2(params) {
+//     return parseInt(params,2)
+// }
+// console.log(calculator2(111));
 
+
+var a  ='abcde'.split();
+var b  ='bcdea';
+// var a1 = a.join()
+console.log(b.split().sort());
 
