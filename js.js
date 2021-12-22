@@ -96,3 +96,16 @@
 
 
 
+    // howework
+
+// function calculator(params) {
+//     return params.toString(2)
+// }
+// console.log(calculator(7));
+
+function calculator2(params) {
+    return parseInt(params,2)
+}
+console.log(calculator2(111));
+
+
