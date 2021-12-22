@@ -109,10 +109,10 @@
 // console.log(calculator2(111));
 
 
-// var a  ='abcde'.split();
-// var b  ='bcdea';
-// // var a1 = a.join()
-// console.log(b.split().sort());
-yechilmadi
+var a  ='abcde'.split('').sort().join();
+var b  ='bcdea'.split('').sort().join();
+console.log(a===b)
+;
+
 
 
