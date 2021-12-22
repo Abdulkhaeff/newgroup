@@ -88,7 +88,11 @@
 // }
 
 
-var ins = "webbrain"
-for (i =0; i < ins.length;i++){
-    console.log(ins);
-}
+// var ins = "webbrain"
+// for (i =0; i < ins.length;i++){
+    // console.log(ins);
+
+
+
+
+
