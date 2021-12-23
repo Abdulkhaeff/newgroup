@@ -109,10 +109,19 @@
 // console.log(calculator2(111));
 
 
-var a  ='abcde'.split('').sort().join();
-var b  ='bcdea'.split('').sort().join();
-console.log(a===b)
-;
+// var a  ='abcde'.split('').sort().join();
+// var b  ='bcdea'.split('').sort().join();
+// console.log(a===b);
+
+
+// #1  Javascript funksiya yozing , 3 dan 29 gacha bolgan sonlar ichida faqat toq sonlarni ekranga chiqarsin
+// Input:  3,4,5,6,7,8,9,...,25,26,27,28,29
+// Output:  3 5 7 9 11 13 15 17 19 21 23 25 27 29
+
+// var sonlar = [2,3,4,5,6,7,8,9,10].join();
+// var sonlar = '225'
+// function toq 
+
 
 
 
