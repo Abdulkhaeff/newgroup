@@ -122,6 +122,11 @@
 // var sonlar = '225'
 // function toq 
 
-
-
-
+// function col (a){
+//     var b = 'asfj';
+//     var count = 0;
+// if (a.length !== b.length)
+// {
+//     console.log(false);
+// }else if (a.length== b.length)
+//     for(i=0; i < a.length; i++)
