@@ -131,4 +131,15 @@
 // }else if (a.length== b.length)
 //     for(i=0; i < a.length; i++)
 
-
+// var a = [];
+var count = 0
+var b = count
+const ShiftRight = (a,b)=>{
+for (let i = 0; i < a.length; i++) {
+for(let j = 0; j <= b;j++){
+    console.log(a.reverse()<=b);
+}
+    
+}
+};
+ShiftRight([5,6,7,8,9],3)
