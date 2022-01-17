@@ -71,6 +71,33 @@
 // }
 
 
+// Duplicate
+
+// var a = [7,2,2,7]
+// for (let i = 0; i < a.length; i++) {
+//     for (let j = 0;j< a.length; j++)
+
+//     if (a[i]!= a[j]){console.log(a[i]);}
+// }
 
 
 
+// Prepare to exam
+
+// console.log('2'*3);
+
+
+
+// var STR= 'W3BBRA1N IS NUMBER 1'
+// for (let i = 0; i < STR.length; i++){
+//     if (typeof STR[i] == Number) {
+//         var numb = 0
+//         console.log(STR[i]);
+// }
+// }"aabbddffasff"
+    
+
+let dublicate = "aabbddffasff".split('');
+
+let dublatemake = [...new Set(dublicate)]
+console.log(dublatemake);
