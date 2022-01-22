@@ -97,7 +97,113 @@
 // }"aabbddffasff"
     
 
-let dublicate = "aabbddffasff".split('');
+// let dublicate = "aabbddffasff".split('');
 
-let dublatemake = [...new Set(dublicate)]
-console.log(dublatemake);
+// let dublatemake = [...new Set(dublicate)]
+// console.log(dublatemake);
+
+
+
+
+
+
+
+// const persons = [
+// {name : 'Elbek'},
+// {name : 'Ziyo'},
+// {name : 'Eldor'},
+// {name : 'Elmurod'},
+// {name : 'Elyor'}
+// ]
+
+// console.log(persons.map);
+
+
+
+ //-----------TASK1-------------
+
+//  var univ = [
+//     {
+//         id:1,
+//         name:'Shaxzod',
+//         surname: 'Shukurullaev',
+//         status: 'Frontent'
+//     },
+//     {
+//         id:2,
+//         name:'Elbek',
+//         surname: 'Abdulkhaeff',
+//         status: 'failed'
+//     },
+//     {
+//         id:3,
+//         name:'Azizbek',
+//         surname: 'Tursunov',
+//         status: 'Frontent'
+//     },
+//     {
+//         id:4,
+//         name:'Otabek',
+//         surname: 'Mirjalolov',
+//         status: 'Fronten'
+//     },
+//     {
+//         id:5,
+//         name:'Ahror',
+//         surname: 'Rustamov',
+//         status: 'Frontent'
+//     },
+//     {
+//         id:6,
+//         name:'Tohtasin',
+//         surname: 'Goporov',
+//         status: 'Frontent'
+//     },
+//     {
+//         id:7,
+//         name:'Abdulazizz',
+//         surname: 'Qurbanov',
+//         status: 'failed'
+//     },
+//     {
+//         id:8,
+//         name:'Qahora',
+//         surname: 'Otrsunov',
+//         status: 'failed'
+//     },
+// ]
+
+
+ //var a =[]
+// var b =[]
+// var res = univ.map((value)=>value.name)
+// var ress = res.join('').split('')
+// var test = ress.map((value)=>value.toUpperCase() == 'A' &&a++)- ress.map((value)=> value.toUpperCase() == 'B' &&b++)
+// console.log('A =', a);
+// console.log('B =', b)
+// -----------TASK2-------------
+// var res = univ.filter((value)=>value.status !== 'failed')
+// console.log(res);
+
+
+
+
+// -----------TASK4-------------
+// let s = '234567897'.split('').join('+')
+
+// console.log(eval(s));
+
+
+
+
+// Task3
+// var arr = [1,2,5,2,1,1,3,4];
+// let unique = arr.sort((a, b) => a - b).filter((item, i, ar) => ar.indexOf(item) === i);
+
+// console.log('eng kichigidan bitta kattasi: ', unique[1]);
+// console.log('eng kattasidan bitta kichigi: ', unique[unique.length-2]);
+
+
+
+
+
